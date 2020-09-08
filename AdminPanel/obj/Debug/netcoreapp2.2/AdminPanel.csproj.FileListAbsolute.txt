@@ -1,0 +1,125 @@
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.csprojAssemblyReference.cache
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.RazorAssemblyInfo.cache
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.RazorAssemblyInfo.cs
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.AssemblyInfoInputs.cache
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.AssemblyInfo.cs
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.deps.json
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.runtimeconfig.json
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.runtimeconfig.dev.json
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.dll
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.pdb
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.Views.dll
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.Views.pdb
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.TagHelpers.input.cache
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.TagHelpers.output.cache
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.RazorCoreGenerate.cache
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Admins\Create.cshtml.g.cs
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Admins\Delete.cshtml.g.cs
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Admins\Edit.cshtml.g.cs
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Admins\Index.cshtml.g.cs
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Create.cshtml.g.cs
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Index.cshtml.g.cs
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Update.cshtml.g.cs
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Create.cshtml.g.cs
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Delete.cshtml.g.cs
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Edit.cshtml.g.cs
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.RazorTargetAssemblyInfo.cache
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.RazorTargetAssemblyInfo.cs
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.Views.pdb
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.dll
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.pdb
+C:\Users\Haythem\Desktop\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.csproj.CopyComplete
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.deps.json
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.runtimeconfig.json
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.runtimeconfig.dev.json
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.dll
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.pdb
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.Views.dll
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.Views.pdb
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.csprojAssemblyReference.cache
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.csproj.CoreCompileInputs.cache
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.RazorAssemblyInfo.cache
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.RazorAssemblyInfo.cs
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.AssemblyInfoInputs.cache
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.AssemblyInfo.cs
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.TagHelpers.input.cache
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.TagHelpers.output.cache
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.RazorCoreGenerate.cache
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Admins\Create.cshtml.g.cs
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Admins\Delete.cshtml.g.cs
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Admins\Edit.cshtml.g.cs
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Admins\Index.cshtml.g.cs
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Create.cshtml.g.cs
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Index.cshtml.g.cs
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Update.cshtml.g.cs
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Create.cshtml.g.cs
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Delete.cshtml.g.cs
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Edit.cshtml.g.cs
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Index.cshtml.g.cs
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.RazorTargetAssemblyInfo.cache
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.RazorTargetAssemblyInfo.cs
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.Views.pdb
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.dll
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.pdb
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.genruntimeconfig.cache
+D:\Bureau05-2020\migartionProject\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.csproj.CopyComplete
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.deps.json
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.runtimeconfig.json
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.runtimeconfig.dev.json
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.dll
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.pdb
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.Views.dll
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\bin\Debug\netcoreapp2.2\AdminPanel.Views.pdb
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.csprojAssemblyReference.cache
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.csproj.CoreCompileInputs.cache
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.RazorAssemblyInfo.cache
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.RazorAssemblyInfo.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.AssemblyInfoInputs.cache
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.AssemblyInfo.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.TagHelpers.input.cache
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.TagHelpers.output.cache
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.RazorCoreGenerate.cache
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Admins\Create.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Admins\Delete.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Admins\Edit.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Admins\Index.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Create.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Index.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Doctors\Update.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Create.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Delete.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Edit.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Roles\Index.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.RazorTargetAssemblyInfo.cache
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.RazorTargetAssemblyInfo.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.Views.pdb
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.dll
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.pdb
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\AdminPanel.csproj.CopyComplete
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Nurses\Create.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Nurses\Delete.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Nurses\Index.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Nurses\Update.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Patients\Create.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Patients\Delete.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Patients\Index.g.cshtml.cs
+D:\Projet 2020\Version Intial PFE\AdminPanel\AdminPanel\obj\Debug\netcoreapp2.2\Razor\Views\Patients\Update.g.cshtml.cs
